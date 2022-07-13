@@ -1,3 +1,5 @@
 Github Page for my Fun Resume 2022 project.
 
-See the repo that this is built from here: https://github.com/DonAbdulRob/FunResume2022
+To see this project live, check this github page: https://donabdulrob.github.io/
+
+The repo that this project is built from is here: https://github.com/DonAbdulRob/FunResume2022
